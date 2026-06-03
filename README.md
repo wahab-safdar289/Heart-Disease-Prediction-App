@@ -24,8 +24,8 @@ Project Structure:
  Heart-Disease-App/
  │
  ├── app.py
- ├── model.pkl
- ├── dataset.csv
+ ├── KNN_heart.pkl
+ ├── heart_disease.csv
  ├── requirements.txt
  └── README.md
 
